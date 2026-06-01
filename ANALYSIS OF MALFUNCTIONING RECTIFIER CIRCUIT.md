@@ -6,6 +6,8 @@
 
 ## ATTACH THE CORRECT CIRCUIT
 
+<img width="1915" height="881" alt="EC EX3" src="https://github.com/user-attachments/assets/f7fd6d6d-6684-45c8-ab3b-4d56d9881d1d" />
+
 ## GRAPHS
 
 
