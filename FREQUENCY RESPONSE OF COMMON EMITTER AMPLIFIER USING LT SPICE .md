@@ -27,6 +27,7 @@
 ## Tabulation
 
 ## Graph
+<img width="1900" height="807" alt="EC EX1" src="https://github.com/user-attachments/assets/6d76ae3b-cfa1-4c26-b45f-8ebaa619b39b" />
 
 
 ## **Result**
