@@ -7,4 +7,9 @@
 
 ## TINKER CAD OUTPUT CIRCUIT
 
+<img width="1528" height="635" alt="HW without capacitor" src="https://github.com/user-attachments/assets/6ebb6532-55d2-406d-8df6-5f74b185f8b5" />
+
+<img width="1528" height="635" alt="HW with cap" src="https://github.com/user-attachments/assets/dd2b03fb-bbb1-4b05-ac4b-df402f5c7fa5" />
+
+
 <img width="831" height="157" alt="image" src="https://github.com/user-attachments/assets/08c25fa5-a963-4100-8ea2-4c7e2669bb49" />
