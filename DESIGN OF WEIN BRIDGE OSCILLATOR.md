@@ -16,10 +16,8 @@
 ## Tabulation
 
 ## Graph
+<img width="1600" height="900" alt="2 exp" src="https://github.com/user-attachments/assets/cca4f07d-0724-4958-aac2-6148d61c39ec" />
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
-Practical frequency of Oscillation =
 
-
-Theoritical Frequency of Oscillation =
