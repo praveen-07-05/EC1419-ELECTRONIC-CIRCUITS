@@ -8,7 +8,6 @@
 
 <img width="1915" height="881" alt="EC EX3" src="https://github.com/user-attachments/assets/f7fd6d6d-6684-45c8-ab3b-4d56d9881d1d" />
 
-## GRAPHS
 
 
 <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
