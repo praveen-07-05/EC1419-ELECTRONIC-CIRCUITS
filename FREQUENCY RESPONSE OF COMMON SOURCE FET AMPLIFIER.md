@@ -8,7 +8,8 @@
 
 
 # Tabulation with readings
-<img width="899" height="681" alt="WhatsApp Image 2026-06-11 at 5 07 25 PM" src="https://github.com/user-attachments/assets/db455528-2371-4927-9b7c-a165da771c35" />
+<img width="899" height="1599" alt="WhatsApp Image 2026-06-11 at 5 06 06 PM" src="https://github.com/user-attachments/assets/e87276d5-16c5-4660-b765-4cf16b62cedc" />
+
 
 ## Semilog plotted Graph
 <img width="898" height="723" alt="WhatsApp Image 2026-06-11 at 5 07 01 PM" src="https://github.com/user-attachments/assets/390df1e1-5634-4259-8fce-0be0e355533c" />
