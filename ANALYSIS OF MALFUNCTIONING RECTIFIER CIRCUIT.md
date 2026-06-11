@@ -7,6 +7,8 @@
 ## ATTACH THE CORRECT CIRCUIT
 
 <img width="1915" height="881" alt="EC EX3" src="https://github.com/user-attachments/assets/f7fd6d6d-6684-45c8-ab3b-4d56d9881d1d" />
+<img width="814" height="1031" alt="WhatsApp Image 2026-06-11 at 5 07 49 PM" src="https://github.com/user-attachments/assets/ee73c0b7-aafb-4419-96dc-0c80575bbd6b" />
+<img width="899" height="1599" alt="WhatsApp Image 2026-06-11 at 5 04 51 PM" src="https://github.com/user-attachments/assets/9a953660-22b2-4046-ad28-cc8322be2d4e" />
 
 
 
